@@ -1,4 +1,9 @@
 Hello, this is a sample
+
 Changed line 2
 ...
 Added text to line 4 
+
+
+Updating with Bash...
+Update with Tortoise...
